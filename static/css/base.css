@@ -1,0 +1,8 @@
+
+form > p > input,
+form > p > label,
+form > p > textarea {
+    width: 80%;
+    font-size: 24px;
+    border-radius: 8px;
+}
